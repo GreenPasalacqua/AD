@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inserta Gasto/Ingreso</title>
+</head>
+<body>
+        <form action="insertCont.php" method="post">
+            <input type="date" placeholder="Fecha" name="fecha"><br>
+            <input type="radio" name="tipo" value="ingreso">Ingreso<br>
+            <input type="radio" name="tipo" value="gasto">Gasto<br>
+            <input type="text" name="descripcion" placeholder="descripcion"><br>
+            <input type="number" min="1" step="any" name="cantidad" placeholder="cantidad"><br>
+            <input type="submit" value="Aceptar">
+
+
+        </form>
+</body>
+</html>

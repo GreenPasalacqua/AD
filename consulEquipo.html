@@ -1,0 +1,63 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Consulta Equipo</title>
+    </head>
+    <body>
+        <label>Seleccione una opcion para buscar</label><br>
+        <button onclick="nombre()" >Buscar por ID de Empleado</button>
+        <button onclick="cliente()" >Buscar por ID de Cliente</button>
+        <button onclick="ide()" >Buscar Numero de serie</button>
+        <script type="text/javascript">
+            function nombre() {
+                document.getElementById('ide').style.display = 'none';
+                document.getElementById('empleado').style.display = 'block';
+                document.getElementById('cliente').style.display = 'none';
+            }
+            function ide() {
+                document.getElementById('empleado').style.display = 'none';
+                document.getElementById('ide').style.display = 'block';
+                document.getElementById('cliente').style.display = 'none';
+
+            }
+            function cliente() {
+                document.getElementById('empleado').style.display = 'none';
+                document.getElementById('ide').style.display = 'none';
+                document.getElementById('cliente').style.display = 'block';
+            }
+        </script>
+        <div id="empleado" style="display: none">
+            <form action="consulEquipo.php" method="post">
+
+                <label >ID Empleado</label>
+                <input type="number" name="busquedaNom">
+                <input type="submit" value="Buscar">
+
+            </form>
+
+        </div>
+        <div id="cliente" style="display: none">
+            <form action="consulEquipo.php" method="post">
+
+                <label >ID Cliente</label>
+                <input type="number" name="busquedaClien">
+                <input type="submit" value="Buscar">
+
+            </form>
+
+        </div>
+        <div id="ide" style="display: none">
+            <form action="consulEquipo.php" method="post">
+
+                <label >Numero de Serie</label>
+                <input type="number" name="busquedaid">
+                <input type="submit" value="Buscar">
+
+
+            </form>
+
+        </div>
+
+    </body>
+    </html>

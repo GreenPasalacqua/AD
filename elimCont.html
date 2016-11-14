@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Elimina Ingreso/ Gasto</title>
+</head>
+<body>
+
+        <label>Seleccione una opcion para buscar</label><br>
+        <button onclick="mosAno()" >Buscar Anho</button>
+        <button onclick="mosMes()" >Buscar Mes</button>
+        <button onclick="mosFecha()" >Buscar Fecha</button>
+        <button onclick="mosRango()" >Buscar Rango de Fechas </button>
+        <script type="text/javascript">
+            function mosFecha() {
+                document.getElementById('mes').style.display = 'none';
+                document.getElementById('fecha').style.display = 'block';
+                document.getElementById('anio').style.display = 'none';
+                document.getElementById('rangoFecha').style.display = 'none';
+            }
+            function mosMes() {
+                document.getElementById('mes').style.display = 'block';
+                document.getElementById('fecha').style.display = 'none';
+                document.getElementById('anio').style.display = 'none';
+                document.getElementById('rangoFecha').style.display = 'none';
+            }
+            function mosAno() {
+                document.getElementById('mes').style.display = 'none';
+                document.getElementById('fecha').style.display = 'none';
+                document.getElementById('anio').style.display = 'block';
+                document.getElementById('rangoFecha').style.display = 'none';
+            }
+            function mosRango() {
+                document.getElementById('mes').style.display = 'none';
+                document.getElementById('fecha').style.display = 'none';
+                document.getElementById('anio').style.display = 'none';
+                document.getElementById('rangoFecha').style.display = 'block';
+            }
+        </script>
+        <div id="fecha" style="display: none;">
+        <form action="elimCont.php" method="post">
+            <input type="date" placeholder="Fecha" name="fecha"><br>
+            <input type="submit" value="Buscar">
+        </form>
+        </div>
+        <div id="rangoFecha" style="display: none;">
+            <form action="elimCont.php" method="post">
+                <input type="date" placeholder="Fecha Inicial" name="fechaIn"><br>
+                <input type="date" placeholder="Fecha Final" name="fechaFin"><br>
+                <input type="submit" value="Buscar">
+            </form>
+        </div>
+        <div id="mes" style="display: none;">
+            <form action="elimCont.php" method="post">
+
+
+                <select name="mes">
+
+                    <option value="01">Enero</option>
+                    <option value="02">Febrero</option>
+                    <option value="03">Marzo</option>
+                    <option value="04">Abril</option>
+                    <option value="05">Mayo</option>
+                    <option value="06">Junio</option>
+                    <option value="07">Julio</option>
+                    <option value="08">Agosto</option>
+                    <option value="09">Septiembre</option>
+                    <option value="10">Octubre</option>
+                    <option value="11">Noviembre</option>
+                    <option value="12">Diciembre</option>
+                </select><br>
+                <input type="number" min="2016" max="2017" name="ano" placeholder="Año"><br>
+                <input type="submit" value="Buscar">
+            </form>
+        </div>
+        <div id="anio" style="display: none;">
+            <form action="elimCont.php" method="post">
+                <input type="number" min="2016" max="2017" name="anio" placeholder="Año"><br>
+                <input type="submit" value="Buscar">
+            </form>
+        </div>
+</body>
+</html>
