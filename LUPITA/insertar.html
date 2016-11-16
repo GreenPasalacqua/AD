@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insertar</title>
+</head>
+<body>
+
+<form action="trabajador.php?val=1" method="post">
+    ID<input type="number" name="txtId" min="0" required><br>
+    NOMBRE <input type="text" name="txtNombre" maxlength="150" required><br>
+    PASSWORD <input type="password" name="txtPassword" maxlength="32" required><br>
+    PUESTO <input type="text" name="txtPuesto" maxlength="50" required><br>
+    PERMISOS <input type="radio" name="txtEspecial" value="true">SI<input type="radio" name="txtEspecial" value="false">NO<br>
+    SALARIO <input type="number" step="0.01"  name="txtSalario" maxlength="150" required><br>
+    <input type="submit" value="ENVIAR">
+</form>
+
+</body>
+</html>
