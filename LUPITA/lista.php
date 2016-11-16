@@ -110,7 +110,7 @@ function consultar() //2
         $stmt = $conn->prepare("SELECT * FROM lista_compras");
 
         ?>
-        <table style="border:solid 1px black " align="center" cellspacing="10px">
+        <table style="border:solid 1px black " align="center" cellspacing="10px" id="basic-table">
             <tr>
                 <th>ID</th>
                 <th>OBJETO</th>
@@ -143,7 +143,7 @@ function consultar() //2
     $conn = null;
     ?>
             </table>
-        <a href="faltantes.php"> <button type="button">GENERAR LISTA FALTANTES</button></a><br>
+        <a href="faltantes.html"> <button type="button">GENERAR LISTA FALTANTES</button></a><br>
     <?php
 }
 

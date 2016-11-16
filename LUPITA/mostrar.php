@@ -53,6 +53,7 @@ else if ($valor == 2 && $llave==3){
     Puesto: <input type="text" name="txtPuesto" value="<? echo $_SESSION['puesto'];?>"><br>
     Salario: <input type="text" name="txtSalario"  value="<? echo $_SESSION['salario'];?>"><br>
     <button type="submit"><? echo $texto;?></button><br>
+
 <?php
 if ($valor==2 && $llave ==2 ){
 ?>

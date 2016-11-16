@@ -84,7 +84,10 @@ function insertar() //1
         $conn = null;
 
     } catch (PDOException $e) {
-        echo "Connection failed: " . $e->getMessage();
+        ?><script type='text/javascript'>
+            alert('La conexion con la base de datos fallo');
+            window.location = 'Empleados.php';
+        </script><?php
     }
 
 
@@ -122,7 +125,10 @@ function consultar() //2
 
 
     } catch (PDOException $e) {
-        echo "Connection failed: " . $e->getMessage();
+        ?><script type='text/javascript'>
+            alert('La conexion con la base de datos fallo');
+            window.location = 'Empleados.php';
+        </script><?php
     }
     $conn = null;
 }
@@ -149,7 +155,10 @@ function modificar()
 
 
     } catch (PDOException $e) {
-        echo "Connection failed: " . $e->getMessage();
+        ?><script type='text/javascript'>
+            alert('La conexion con la base de datos fallo');
+            window.location = 'Empleados.php';
+        </script><?php
     }
     $conn = null;
 
@@ -165,7 +174,10 @@ function eliminar()
         $sql = "DELETE FROM trabajador WHERE id='$id'";
         $conn->exec($sql);
     } catch (PDOException $e) {
-        echo "Connection failed: " . $e->getMessage();
+        ?><script type='text/javascript'>
+            alert('La conexion con la base de datos fallo');
+            window.location = 'Empleados.php';
+            </script><?php
     }
     $conn = null;
 
