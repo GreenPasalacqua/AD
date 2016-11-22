@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!--<meta name="viewport" content="width=device-width; initial-scale=1.0"/>-->
+
+    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+
+    <script type="text/javascript" src="scripts/jquery-1.11.0.min.js" defer></script>
+    <script type="text/javascript" src="scripts/quagga.min.js" defer></script>
+    <script type="text/javascript" src="scripts/file_input.js" defer></script>
+
+    <title>Scanner</title>
+</head>
+
+<body>
+
+<header>
+    <h1>Scanner</h1>
+</header>
+
+<main>
+    <section class="controles">
+        <label for="inputSeleccionar" class="inputFile">📷</label>
+        <input id="inputSeleccionar" type="file" accept="image/*">
+    </section>
+
+    <section id="tira_resultados">
+        <ul class="miniaturas"></ul>
+    </section>
+
+    <section id="interactive" class="viewport"></section>
+</main>
+
+</body>
+
+</html>

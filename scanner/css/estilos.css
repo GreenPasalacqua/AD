@@ -1,0 +1,155 @@
+@charset "UTF-8";
+
+body {
+  font-family: calibri, arial, sans-serif;
+  background-color: #FBFBFB;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+main {
+  width: 960px;
+  margin:0 auto;
+}
+
+section {
+  width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#interactive.viewport {
+  position: relative;
+}
+
+#interactive.viewport > canvas, #interactive.viewport > video {
+  max-width: 100%;
+  width: 100%;
+}
+
+canvas.drawing, canvas.drawingBuffer {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.controles:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+#tira_resultados {
+  margin: 10px auto;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 10px 0;
+}
+
+#tira_resultados ul.miniaturas {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  width: auto;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+#tira_resultados ul.miniaturas > li {
+  display: inline-block;
+  vertical-align: middle;
+  width: 160px;
+}
+
+#tira_resultados ul.miniaturas > li .miniatura {
+  padding: 5px;
+  margin: 4px;
+  border: 1px dashed #00F;
+}
+
+#tira_resultados ul.miniaturas > li .miniatura img {
+  max-width: 140px;
+}
+
+#tira_resultados ul.miniaturas > li .miniatura .leyenda {
+  white-space: normal;
+}
+
+#tira_resultados ul.miniaturas > li .miniatura .leyenda h4 {
+  text-align: center;
+  word-wrap: break-word;
+  height: 40px;
+  margin: 0;
+}
+
+#tira_resultados ul.miniaturas:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 603px) {
+  main {
+    margin: 10px auto;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+}
+@media (max-width: 603px) {
+  #interactive.viewport {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+  #tira_resultados {
+    margin-top: 5px;
+    padding-top: 5px;
+  }
+
+  #tira_resultados ul.miniaturas {
+    width: 100%;
+    height: auto;
+  }
+
+  #tira_resultados ul.miniaturas > li {
+    width: 150px;
+  }
+
+  #tira_resultados ul.miniaturas > li .miniatura .figura {
+    width: 130px;
+    height: 130px;
+    overflow: hidden;
+  }
+
+  #tira_resultados ul.miniaturas > li .miniatura .figura img {
+    margin-top: -25px;
+    width: 130px;
+    height: 180px;
+  }
+}
+
+.controles {
+  text-align: center;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.inputFile {
+  font-size: 40px;
+  border: 2px solid orangered;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 5px 10px;
+  cursor: pointer;
+}
