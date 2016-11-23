@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb2c1f4-bf23-461d-ad30-884d2a2e2325" name="Default" comment="" />
+    <ignored path="Sueños.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Sueños" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cliente_MD.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cliente_MD.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+              <folding>
+                <element signature="e#1543#1574#0#HTML" expanded="true" />
+                <element signature="e#2883#2914#0#HTML" expanded="true" />
+                <marker date="1479453899307" expanded="true" signature="601:733" ph="insert into cliente... " />
+                <marker date="1479453899307" expanded="true" signature="801:961" ph="..." />
+                <marker date="1479453899307" expanded="true" signature="1019:1162" ph="..." />
+                <marker date="1479453899307" expanded="true" signature="1333:1369" ph="select * FRO... cliente" />
+                <marker date="1479453899307" expanded="true" signature="2401:2567" ph="..." />
+                <marker date="1479453899307" expanded="true" signature="2655:2705" ph="select * FRO... cliente" />
+                <marker date="1479453899307" expanded="true" signature="3738:3897" ph="..." />
+                <marker date="1479453899307" expanded="true" signature="4085:4119" ph="delete FROM " />
+                <marker date="1479453899307" expanded="true" signature="4196:4244" ph="delete FROM " />
+                <marker date="1479453899307" expanded="true" signature="4309:4455" ph="..." />
+                <marker date="1479453899307" expanded="true" signature="4499:4641" ph="..." />
+                <marker date="1479453899307" expanded="true" signature="4960:5097" ph="UPDATE clien... " />
+                <marker date="1479453899307" expanded="true" signature="5136:5295" ph="UPDATE clien... " />
+                <marker date="1479453899307" expanded="true" signature="5368:5520" ph="..." />
+                <marker date="1479453899307" expanded="true" signature="5564:5718" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cliente_confirma.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cliente_confirma.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="56" column="127" selection-start-line="56" selection-start-column="127" selection-end-line="56" selection-end-column="127" />
+              <folding>
+                <element signature="e#1151#1182#0#HTML" expanded="true" />
+                <marker date="1479454574023" expanded="true" signature="373:409" ph="select * FRO... cliente" />
+                <marker date="1479454574023" expanded="true" signature="758:808" ph="select * FRO... cliente" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bitacora_busqueda.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitacora_busqueda.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bitacora_registro.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitacora_registro.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bitacora_MD.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitacora_MD.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="70" selection-end-column="17" />
+              <folding>
+                <marker date="1479341975458" expanded="true" signature="339:371" ph="select * FRO... cliente" />
+                <marker date="1479341975458" expanded="true" signature="339:375" ph="select * FRO... cliente" />
+                <marker date="1479341975458" expanded="true" signature="704:815" ph="insert into bitacora... " />
+                <marker date="1479341975458" expanded="true" signature="883:917" ph="..." />
+                <marker date="1479341975458" expanded="true" signature="883:1048" ph="..." />
+                <marker date="1479341975458" expanded="true" signature="1100:1250" ph="..." />
+                <marker date="1479341975458" expanded="true" signature="1308:1495" ph="..." />
+                <marker date="1479341975458" expanded="true" signature="1690:1732" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="1690:1734" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="1690:1746" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="1690:1750" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="1690:1751" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="1690:1752" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="1690:1763" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="1923:2011" ph="SELECT * FRO... siscontable" />
+                <marker date="1479341975458" expanded="true" signature="2103:2148" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="2247:2290" ph="SELECT * FRO... bitacora" />
+                <marker date="1479341975458" expanded="true" signature="2608:3091" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bitacora_verificar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitacora_verificar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-761">
+              <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+              <folding>
+                <marker date="1479350349548" expanded="true" signature="403:476" ph="SELECT * FRO... bitacora" />
+                <marker date="1479350349548" expanded="true" signature="620:708" ph="SELECT * FRO... bitacora" />
+                <marker date="1479350349548" expanded="true" signature="787:832" ph="SELECT * FRO... bitacora" />
+                <marker date="1479350349548" expanded="true" signature="919:962" ph="SELECT * FRO... bitacora" />
+                <marker date="1479350349548" expanded="true" signature="1078:1240" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu_cliente.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu_cliente.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cliente_busqueda.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cliente_busqueda.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cliente_campos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cliente_campos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+              <folding>
+                <marker date="1479415474849" expanded="true" signature="428:464" ph="select * FRO... cliente" />
+                <marker date="1479415474849" expanded="true" signature="985:1648" ph="..." />
+                <marker date="1479415474849" expanded="true" signature="1811:1957" ph="..." />
+                <marker date="1479415474849" expanded="true" signature="2045:2095" ph="select * FRO... cliente" />
+                <marker date="1479415474849" expanded="true" signature="3449:3609" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cliente_registro.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cliente_registro.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/select_client.html" />
+        <option value="$PROJECT_DIR$/menu_cliente.html" />
+        <option value="$PROJECT_DIR$/cliente_eliminar.html" />
+        <option value="$PROJECT_DIR$/cliente_registro.html" />
+        <option value="$PROJECT_DIR$/cliente_consulta.html" />
+        <option value="$PROJECT_DIR$/cliente_eliminar.php" />
+        <option value="$PROJECT_DIR$/cliente_consulta.php" />
+        <option value="$PROJECT_DIR$/cliente_actualizar_eleccion.php" />
+        <option value="$PROJECT_DIR$/cliente_campos.html" />
+        <option value="$PROJECT_DIR$/cliente_actualizar.html" />
+        <option value="$PROJECT_DIR$/cliente_actualizar.php" />
+        <option value="$PROJECT_DIR$/menu_cliente.php" />
+        <option value="$PROJECT_DIR$/menu_bitacora.html" />
+        <option value="$PROJECT_DIR$/bitacora_registro.html" />
+        <option value="$PROJECT_DIR$/bitacora_MD.html" />
+        <option value="$PROJECT_DIR$/bitacora_busqueda.html" />
+        <option value="$PROJECT_DIR$/menu_bitacora.php" />
+        <option value="$PROJECT_DIR$/bitacora_busqueda.php" />
+        <option value="$PROJECT_DIR$/bitacora_registro.php" />
+        <option value="$PROJECT_DIR$/bitacora_MD.php" />
+        <option value="$PROJECT_DIR$/bitacora_verificar.php" />
+        <option value="$PROJECT_DIR$/cliente_registro.php" />
+        <option value="$PROJECT_DIR$/cliente_campos.php" />
+        <option value="$PROJECT_DIR$/cliente_busqueda.php" />
+        <option value="$PROJECT_DIR$/cliente_MD.php" />
+        <option value="$PROJECT_DIR$/cliente_confirma.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="10000" break_at_first_line="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="00ed404e-31bc-4f53-acfe-7ae9e7835def" name="localhost" port="8014" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/xampp/htdocs/Sue�os" />
+        </path_mappings>
+      </server>
+      <server host="localhost" id="7796337d-b3a6-4dfa-9f4c-0326c6656689" name="localhost (1)" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/xampp/phpMyAdmin" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\xampp\htdocs\" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost:80" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sueños" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sueños" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sueños" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.PHP Web Server">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="PHP Web Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8014">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.PHP Web Server" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb2c1f4-bf23-461d-ad30-884d2a2e2325" name="Default" comment="" />
+      <created>1478378520458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478378520458</updated>
+      <workItem from="1478378521827" duration="23000" />
+      <workItem from="1478378563569" duration="37700000" />
+      <workItem from="1478828412143" duration="31045000" />
+      <workItem from="1479166217907" duration="19878000" />
+      <workItem from="1479338035665" duration="4778000" />
+      <workItem from="1479414093465" duration="9532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102956000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14599092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08034188" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14529915" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/cliente_MD.php</url>
+          <line>102</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/bitacora_verificar.php</url>
+          <line>51</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/cliente_confirma.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cliente_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#1543#1574#0#HTML" expanded="true" />
+            <element signature="e#2883#2914#0#HTML" expanded="true" />
+            <marker date="1479453899307" expanded="true" signature="601:733" ph="insert into cliente... " />
+            <marker date="1479453899307" expanded="true" signature="801:961" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1019:1162" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1333:1369" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="2401:2567" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="2655:2705" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="3738:3897" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4085:4119" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4196:4244" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4309:4455" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4499:4641" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4960:5097" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5136:5295" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5368:5520" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="5564:5718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_bitacora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="111" selection-start-line="9" selection-start-column="109" selection-end-line="9" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <marker date="1479341975458" expanded="true" signature="339:371" ph="select * FRO... cliente" />
+            <marker date="1479341975458" expanded="true" signature="339:375" ph="select * FRO... cliente" />
+            <marker date="1479341975458" expanded="true" signature="704:815" ph="insert into bitacora... " />
+            <marker date="1479341975458" expanded="true" signature="883:917" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="883:1048" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1100:1250" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1308:1495" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1690:1732" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1734" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1746" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1750" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1751" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1752" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1763" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1923:2011" ph="SELECT * FRO... siscontable" />
+            <marker date="1479341975458" expanded="true" signature="2103:2148" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="2247:2290" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="2608:3091" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_verificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+          <folding>
+            <marker date="1479350349548" expanded="true" signature="403:476" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="620:708" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="787:832" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="919:962" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="1078:1240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_campos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="56" selection-start-line="72" selection-start-column="56" selection-end-line="72" selection-end-column="56" />
+          <folding>
+            <marker date="1479415474849" expanded="true" signature="428:464" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="985:1648" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="1811:1957" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="2045:2095" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="3449:3609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+          <folding>
+            <element signature="e#1543#1574#0#HTML" expanded="true" />
+            <element signature="e#2883#2914#0#HTML" expanded="true" />
+            <marker date="1479453899307" expanded="true" signature="601:733" ph="insert into cliente... " />
+            <marker date="1479453899307" expanded="true" signature="801:961" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1019:1162" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1333:1369" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="2401:2567" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="2655:2705" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="3738:3897" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4085:4119" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4196:4244" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4309:4455" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4499:4641" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4960:5097" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5136:5295" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5368:5520" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="5564:5718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_bitacora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479341975458" expanded="true" signature="339:371" ph="select * FRO... cliente" />
+            <marker date="1479341975458" expanded="true" signature="339:375" ph="select * FRO... cliente" />
+            <marker date="1479341975458" expanded="true" signature="704:815" ph="insert into bitacora... " />
+            <marker date="1479341975458" expanded="true" signature="883:917" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="883:1048" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1100:1250" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1308:1495" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1690:1732" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1734" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1746" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1750" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1751" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1752" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1763" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1923:2011" ph="SELECT * FRO... siscontable" />
+            <marker date="1479341975458" expanded="true" signature="2103:2148" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="2247:2290" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="2608:3091" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_verificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
+          <folding>
+            <marker date="1479350349548" expanded="true" signature="403:476" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="620:708" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="787:832" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="919:962" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="1078:1240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_campos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <marker date="1479415474849" expanded="true" signature="428:464" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="985:1648" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="1811:1957" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="2045:2095" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="3449:3609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1543#1574#0#HTML" expanded="true" />
+            <element signature="e#2883#2914#0#HTML" expanded="true" />
+            <marker date="1479453899307" expanded="true" signature="601:733" ph="insert into cliente... " />
+            <marker date="1479453899307" expanded="true" signature="801:961" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1019:1162" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1333:1369" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="2401:2567" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="2655:2705" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="3738:3897" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4085:4119" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4196:4244" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4309:4455" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4499:4641" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4960:5097" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5136:5295" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5368:5520" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="5564:5718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_bitacora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1543#1574#0#HTML" expanded="true" />
+            <element signature="e#2883#2914#0#HTML" expanded="true" />
+            <marker date="1479453899307" expanded="true" signature="601:733" ph="insert into cliente... " />
+            <marker date="1479453899307" expanded="true" signature="801:961" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1019:1162" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1333:1369" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="2401:2567" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="2655:2705" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="3738:3897" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4085:4119" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4196:4244" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4309:4455" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4499:4641" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4960:5097" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5136:5295" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5368:5520" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="5564:5718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_campos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <marker date="1479415474849" expanded="true" signature="428:464" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="985:1648" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="1811:1957" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="2045:2095" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="3449:3609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_consulta.php" />
+    <entry file="file://$PROJECT_DIR$/cliente_eliminar.php" />
+    <entry file="file://$PROJECT_DIR$/cliente_actualizar.php" />
+    <entry file="file://$PROJECT_DIR$/cliente_actualizar.php" />
+    <entry file="file://$PROJECT_DIR$/menu_bitacora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="111" selection-start-line="9" selection-start-column="109" selection-end-line="9" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="70" selection-end-column="17" />
+          <folding>
+            <marker date="1479341975458" expanded="true" signature="339:371" ph="select * FRO... cliente" />
+            <marker date="1479341975458" expanded="true" signature="339:375" ph="select * FRO... cliente" />
+            <marker date="1479341975458" expanded="true" signature="704:815" ph="insert into bitacora... " />
+            <marker date="1479341975458" expanded="true" signature="883:917" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="883:1048" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1100:1250" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1308:1495" ph="..." />
+            <marker date="1479341975458" expanded="true" signature="1690:1732" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1734" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1746" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1750" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1751" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1752" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1690:1763" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="1923:2011" ph="SELECT * FRO... siscontable" />
+            <marker date="1479341975458" expanded="true" signature="2103:2148" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="2247:2290" ph="SELECT * FRO... bitacora" />
+            <marker date="1479341975458" expanded="true" signature="2608:3091" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_campos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+          <folding>
+            <marker date="1479415474849" expanded="true" signature="428:464" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="985:1648" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="1811:1957" ph="..." />
+            <marker date="1479415474849" expanded="true" signature="2045:2095" ph="select * FRO... cliente" />
+            <marker date="1479415474849" expanded="true" signature="3449:3609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_MD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding>
+            <element signature="e#1543#1574#0#HTML" expanded="true" />
+            <element signature="e#2883#2914#0#HTML" expanded="true" />
+            <marker date="1479453899307" expanded="true" signature="601:733" ph="insert into cliente... " />
+            <marker date="1479453899307" expanded="true" signature="801:961" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1019:1162" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="1333:1369" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="2401:2567" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="2655:2705" ph="select * FRO... cliente" />
+            <marker date="1479453899307" expanded="true" signature="3738:3897" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4085:4119" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4196:4244" ph="delete FROM " />
+            <marker date="1479453899307" expanded="true" signature="4309:4455" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4499:4641" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="4960:5097" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5136:5295" ph="UPDATE clien... " />
+            <marker date="1479453899307" expanded="true" signature="5368:5520" ph="..." />
+            <marker date="1479453899307" expanded="true" signature="5564:5718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_busqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitacora_verificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761">
+          <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+          <folding>
+            <marker date="1479350349548" expanded="true" signature="403:476" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="620:708" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="787:832" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="919:962" ph="SELECT * FRO... bitacora" />
+            <marker date="1479350349548" expanded="true" signature="1078:1240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente_confirma.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="56" column="127" selection-start-line="56" selection-start-column="127" selection-end-line="56" selection-end-column="127" />
+          <folding>
+            <element signature="e#1151#1182#0#HTML" expanded="true" />
+            <marker date="1479454574023" expanded="true" signature="373:409" ph="select * FRO... cliente" />
+            <marker date="1479454574023" expanded="true" signature="758:808" ph="select * FRO... cliente" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
